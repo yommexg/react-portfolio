@@ -4,6 +4,7 @@ import YommexStoreImage from "../../assets/projects/YommexStores.png";
 import TeedeeePoshAdmin from "../../assets/projects/TeedeeposhAdmin.png";
 import YomnetImage from "../../assets/projects/YomnetImage.png";
 import YomShareImage from "../../assets/projects/YomShare.png";
+import pshclient from "../../assets/projects/poshclient.png";
 
 const data = [
   {
@@ -18,14 +19,14 @@ const data = [
   {
     id: 2,
     image: TeedeeePoshAdmin,
-    demo: "https://teedee-posh-admin-yommexg.vercel.app/",
+    demo: "https://teedeeposh-git-main-yommexg.vercel.app/",
     title: "TeedeeePosh Admin",
     github: "https://github.com/yommexg/TeedeePosh",
     frontend: "React",
     backend: "Node, Express",
     database: "MongoDB",
-    email: "abcd@def",
-    password: "1234",
+    email: "animecodelord@gmail.com",
+    password: "Procarious123#",
   },
   {
     id: 3,
@@ -43,6 +44,18 @@ const data = [
     github: "https://github.com/yommexg/yomshareme",
     frontend: "React",
     backend: "Sanity and GoogleAuthentication",
+  },
+  {
+    id: 5,
+    image: pshclient,
+    demo: "https://teedeeposh-hz57.vercel.app/",
+    title: "TeedeeePosh Client",
+    github: "https://github.com/yommexg/TeedeePosh",
+    frontend: "React",
+    backend: "Node, Express",
+    database: "MongoDB",
+    email: "animecodelord@gmail.com",
+    password: "Procarious123#",
   },
 ];
 
